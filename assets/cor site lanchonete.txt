@@ -1,0 +1,4 @@
+#C40C0C cor 1
+#FF6500 cor 2
+#FF8A08 cor 3
+#FFC100 cor 4
